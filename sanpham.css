@@ -1,0 +1,27 @@
+.column{
+    width: 25%;
+    float:left
+}
+.san-pham{
+    box-shadow: 0 0 5px gray;
+    padding:10px;
+    margin:5px;
+    text-align:center;
+}
+.san-pham .ten{
+    font-size:larger ;
+    font-variant:small-caps;
+    font-weight: bolder;
+    color: purple;
+}
+.san-pham img{
+    max-width: 100%;
+}
+.san-pham .gia{
+    color:red;
+    font-weight:bold;
+    font-size: larger;
+}    
+.san-pham .gia del{
+    color:gray
+}    
